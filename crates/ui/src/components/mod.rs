@@ -1,1 +1,3 @@
-pub mod button;
+mod button;
+
+pub use button::*;

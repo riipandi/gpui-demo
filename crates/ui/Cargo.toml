@@ -6,4 +6,4 @@ publish.workspace = true
 
 [dependencies]
 gpui.workspace = true
-base-gpui.workspace = true
+gpui-base.workspace = true
